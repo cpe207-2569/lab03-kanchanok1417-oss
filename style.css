@@ -1,0 +1,28 @@
+.center-h {
+  text-align: center;
+  font-family: 'Sarabun', sans-serif;
+  color: #c0a060;
+  margin-top: 60px;
+  margin-bottom: 40px;
+  font-weight: bold;
+  font-size: 3.5rem;
+}
+.skills {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+  margin-bottom: 10px;
+}
+.body{
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
+  margin-bottom: 10px;
+}
+.contact{
+  color: #c0a060; 
+  font-weight: 500; 
+  white-space: nowrap;
+}
