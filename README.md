@@ -10,4 +10,4 @@
 
 - ชื่อ-สกุล: กานต์ชนก ตระการกสิกิจ
 - รหัสนักศึกษา: 670610870
-- <strong>GITHUB PAGE URL : https://cpe207-2569.github.io/lab03-kanchanok1417-oss/gallery.html </strong>
+- <strong>GITHUB PAGE URL : https://cpe207-2569.github.io/lab03-kanchanok1417-oss/index.html </strong>
